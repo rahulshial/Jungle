@@ -1,6 +1,10 @@
 Rails.application.routes.draw do
 
   root to: 'products#index'
+  # above can be written similarly as
+  # get '/' => 'products#index'
+  # older rails wrote it as
+  # get '/' => { controller: 'products', action: 'index'}
 
   resources :products, only: [:index, :show]
   resources :categories, only: [:show]
