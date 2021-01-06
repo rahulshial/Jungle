@@ -25,3 +25,13 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+New feature
+- Ability for admns to create Sale records
+  - name
+  - percent off
+  - starts_on (date)
+  - ends_on (date)
+
+- Once any sale is active, display it on the products#index page (home page) and affect the prices
+- 
