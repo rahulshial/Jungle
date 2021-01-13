@@ -6,11 +6,11 @@ A mini e-commerce application built with Rails 4.2. Using Stripe to order items 
 
 Navigating the page, and adding items to the cart.
 
-![Navigating the site](./docs/User-sign-up-login-and-purchase-product.gif)
+![Navigating the site](https://github.com/rahulshial/Jungle/blob/master/docs/user_navigation.gif)
 
 Accessing the Admin side of the site.
 
-![Accessing the admin side](./docs/Admin_login.gif)
+![Accessing the admin side](https://github.com/rahulshial/Jungle/blob/master/docs/admin_navigation.gif)
 
 
 
