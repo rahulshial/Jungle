@@ -45,4 +45,3 @@ New feature
   - ends_on (date)
 
 - Once any sale is active, display it on any page  and affect the prices
-- 
